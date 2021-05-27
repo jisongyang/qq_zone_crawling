@@ -1,6 +1,6 @@
 # qq_zone_crawling
 
-there are there parts in this repository
+three parts in this repository
 
 1. craw logs frome qq_zone
   (log in to qq_zone by click QQ Avatar in web)
